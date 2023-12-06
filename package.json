@@ -1,0 +1,14 @@
+{
+    "name": "mqtt-client-example",
+    "version": "1.0.0",
+    "description": "A simple MQTT client example using Node.js",
+    "main": "mqtt_client.js",
+    "scripts": {
+      "start": "node mqtt_client.js"
+    },
+    "dependencies": {
+      "mqtt": "^4.2.9",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
